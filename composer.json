@@ -1,0 +1,12 @@
+{
+    "name": "chirag/todo",
+    "description": "sample todo list app",
+    "type": "projec",
+    "authors": [
+        {
+            "name": "chirag chaudhari",
+            "email": "chiragchaudhari97@gmail.com"
+        }
+    ],
+    "require": {}
+}
